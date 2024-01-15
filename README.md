@@ -37,7 +37,7 @@ Please follow the instructions [here](https://bazel.build/install).
 
 ### Build
 
-#### Build on Linux
+#### Build on Linux Detail
 
 ```shell
 > bazel build --config linux //...
